@@ -1,0 +1,6 @@
+*.csv
+*.toml
+*.xml
+*.iml
+/model_results
+.venv
